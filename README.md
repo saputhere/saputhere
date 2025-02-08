@@ -1,11 +1,7 @@
-## Hi there! I'm Sapumal Wijesingha 👋
-
 <img src="https://github.com/saputhere.png" width="120" align="right" />
 
 ### 🚀 About Me
 - 🎯 Passionate developer & tech enthusiast.## Hi there! I'm Sapumal Wijesingha 👋
-
-<img src="https://github.com/saputhere.png" width="120" align="right" />
 
 ### 🚀 About Me
 - 🎯 Professional **Designer, Software Engineer, and Power Platform Engineer**.
