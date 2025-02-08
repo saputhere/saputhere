@@ -1,5 +1,18 @@
 <img src="https://github.com/saputhere.png" width="120" align="right" />
 
+## 🔗 Find me
+[![Find me](https://img.shields.io/badge/Find%20Me-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saputhere)
+
+## 📬 Contact me
+[![Contact me](https://img.shields.io/badge/Contact%20Me-%2300B22D.svg?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/anjuwijesingha)
+
+## 📝 Portfolio
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23F2C811.svg?style=flat-square&logo=github&logoColor=black)](https://github.com/saputhere)
+
+## 🚶 Here I am
+[![Here I am](https://img.shields.io/badge/Here%20I%20Am-%230081CB.svg?style=flat-square&logo=react&logoColor=white)](https://www.linkedin.com/in/saputhere)
+
+
 ### 🚀 About Me
 - 🎯 Passionate developer & tech enthusiast.## Hi there! I'm Sapumal Wijesingha 👋
 
