@@ -6,9 +6,8 @@
 ### 🚀 About Me
 - 🎯 Professional **Designer, Software Engineer, and Power Platform Engineer**.
 - 💡 Expert in **UI/UX Design, Software Development, and Business Process Automation**.
-- 💻 Highly skilled in **.NET, C#, Python, Web Development, Mobile Application Technologies, Desktop Applications, and Databases**.
-- ⚙️ Specialized in **Power Platform, Power BI, API Management, AI/ML, and Automation**.
-- 🌍 Passionate about solving business challenges with cutting-edge technology.
+- ⚙️ Specialized in **Power Platform, Power BI, API Management, AI/ML, and Automation, Web Development, Mobile Application Technologies, Desktop Applications, and Databases**.
+- 🌍 Passionate about problem solving and empowering business challenges with cutting-edge technology.
 
 ---
 
@@ -31,11 +30,11 @@
 
 - 🏦 **BOC Mandate Management System** *(Banking Sector)*
 - 🏭 **Silicone Mixing Application** *(Manufacturing Automation)*
-- 🔄 **RMW to FGW Production Monitoring System** *(Power Platform Based)*
-- 📊 **Downtime, Employee Efficiency, and Incentive Tracking System**
-- 🏗️ **Asset & Overtime Management System**
+- 🔄 **Raw Material Wherehouse to Finish Good Wherehouse Production Monitoring and Management System** *(Power Platform Based)*
+- 🧮 **Downtime, Employee Efficiency, and Incentive Tracking System, Asset Management System, Overtime Management System** *(Power Platform Based)*
 - 📈 **Power BI Dashboards for High-Demand Business Insights**
 - 🌐 **Advanced Automated Flows & API Management**
+- 🌐 **PapreNull**
 - 🤖 **ML/AI Projects for Business Optimization**
 
 ---
@@ -63,24 +62,6 @@
 
 ---
 
-### ⚡ Fun Fact
-🚀 I thrive on challenging projects and love developing innovative solutions!
-
-- 💡 Love building creative & scalable applications.
-- 💻 Proficient in **HTML, CSS, JavaScript, Python**.
-- 🌍 Open-source contributor & lifelong learner.
-
----
-
-### 🔧 Tech Stack
-
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
-
----
-
 ### 📌 Featured Projects
 
 - 🔹 **[kelinkandascl](https://github.com/saputhere/kelinkandascl)** *(HTML Project)*
@@ -89,28 +70,11 @@
 - 🔹 **[bemyvalantine](https://github.com/saputhere/bemyvalantine)** *(HTML Project)*
 
 ---
-
-### 📊 GitHub Stats
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=saputhere&show_icons=true&theme=dark&count_private=true" width="100%" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saputhere&layout=compact&theme=dark" width="100%" />
-</td>
-</tr>
-</table>
-
----
-
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sapumalwi)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/saputhere)
-
----
-
 ### ⚡ Fun Fact
-🧩 I love solving coding challenges and exploring new tech trends!
+🚀 I thrive on challenging projects and love developing innovative solutions!
+
+- 💡 Love building creative & scalable applications.
+- 💻 Proficient in **HTML, CSS, JavaScript, Python**.
+- 🌍 Open-source contributor & lifelong learner.
+
+---
