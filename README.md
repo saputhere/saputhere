@@ -65,16 +65,17 @@
 ### 📌 Featured Projects
 
 - 🔹 **[kelinkandascl](https://github.com/saputhere/kelinkandascl)** *(HTML Project)*
-- 🔹 **[roobi](https://github.com/saputhere/roobi)** *(CSS Project)*
 - 🔹 **[donpedrickcc](https://github.com/saputhere/donpedrickcc)** *(HTML Project)*
 - 🔹 **[bemyvalantine](https://github.com/saputhere/bemyvalantine)** *(HTML Project)*
+- Upcomming...
 
+  
 ---
 ### ⚡ Fun Fact
 🚀 I thrive on challenging projects and love developing innovative solutions!
 
 - 💡 Love building creative & scalable applications.
-- 💻 Proficient in **HTML, CSS, JavaScript, Python**.
+- 💻 Proficient in **Microfoft Power Platform, HTML, CSS, JavaScript, Python, C# .Net, PHP, DBMS, Servers**.
 - 🌍 Open-source contributor & lifelong learner.
 
 ---
